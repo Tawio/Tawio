@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tawio
+- 👋 Hi, I’m @Taiwo
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning front end and back end development
 - 💞️ I’m looking to collaborate on fe and be development
